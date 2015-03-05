@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="635eb36b-46e1-4ea4-b532-f7edfcfbbfe7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/style.css" />
-    </list>
+    <list default="true" id="635eb36b-46e1-4ea4-b532-f7edfcfbbfe7" name="Default" comment="" />
     <ignored path="responsivehokulani.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
