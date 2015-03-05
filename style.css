@@ -7,11 +7,11 @@ body {
 .img-responsive{
   background-image: url("https://lilinote.k12.hi.us/SCHOOLS/D1/Hokulani/HokulaniHome.nsf/2c5e41f84b643c0a852564bc004a12ae/6377c9b87eace7600a256ad500819366/Body/0.4B0C?OpenElement&FieldElemFormat=jpg");
   background-repeat: no-repeat;
-  height: 350px;
+  height: 200px;
   background-size: cover;
   padding: 0px;
   border:0px;
-  back
+
 
 
 
@@ -35,6 +35,7 @@ body {
 }
 .well li a{
   color:white;
+  font-width: bold;
 }
 h2{
   font-size: 18px;
