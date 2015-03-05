@@ -1,0 +1,58 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  color: #F5E241;
+  background-color: white;
+}
+
+.img-responsive{
+  background-image: url("https://lilinote.k12.hi.us/SCHOOLS/D1/Hokulani/HokulaniHome.nsf/2c5e41f84b643c0a852564bc004a12ae/6377c9b87eace7600a256ad500819366/Body/0.4B0C?OpenElement&FieldElemFormat=jpg");
+  background-repeat: no-repeat;
+  height: 350px;
+  background-size: cover;
+  padding: 0px;
+  border:0px;
+  back
+
+
+
+
+
+}
+.navbar-inverse{
+  background-color:  #2B82F2;
+  color:#F5E241;
+  font-size: 18px;
+  font-weight: bold;
+  border-color: #2B82F2;
+}
+.well{
+  background-color: #2B82F2;
+  color: #F5E241;
+  border-color: #2B82F2;
+}
+.well li{
+  list-style: none;
+}
+.well li a{
+  color:white;
+}
+h2{
+  font-size: 18px;
+  text-align: center;
+  font-width: bold;font-weight: bold;
+
+}
+.knightimg{
+  background-image: url("https://lilinote.k12.hi.us/SCHOOLS/D1/Hokulani/HokulaniHome.nsf/2c5e41f84b643c0a852564bc004a12ae/6377c9b87eace7600a256ad500819366/Body/8.EA?OpenElement&FieldElemFormat=jpg");
+  height: 400px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+.navbar-inverse .navbar-nav li a {
+  color:#F5E241;
+}
+.middle{
+  color: white;
+}
